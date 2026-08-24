@@ -1,0 +1,34 @@
+📊 Dashboard Requirements
+
+1. KPI Cards
+
+Total Sales
+Total Profit
+Total Orders
+Total Customers
+Total Quantity
+
+2. Sales Analysis
+
+Sales by Category
+Sales by Region
+Monthly Sales Trend
+Sales & Profit by Category
+Top 10 Products by Sales
+
+3. Customer Analysis
+
+Top 10 Customers by Sales
+Sales by Customer Segment
+Total Customers
+
+4. Profit Analysis
+
+Profit by Category
+Profit by Region
+Sales vs Profit comparison
+
+5. Interactive Filter
+
+📅 Month/Year slicer
+You can select a month and the dashboard updates
